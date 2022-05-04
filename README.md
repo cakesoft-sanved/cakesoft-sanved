@@ -45,14 +45,7 @@ I am Sanved, currently working as a Software Development Engineer at CakeSoft Te
 <p align='center'>
 <img src="https://activity-graph.herokuapp.com/graph?username=cakesoft-sanved&theme=react-dark&hide_border=true">
 <p>
-  
--------------------
 
-## Waka Time Stats
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=cakesoft_sanved&theme=react-dark">
-</p>
 
 -------------------
 
